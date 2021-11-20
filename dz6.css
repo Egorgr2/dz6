@@ -1,0 +1,108 @@
+.di{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    list-style: none;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.dul{
+    flex-wrap: wrap;
+}
+
+
+body{
+    position: relative;
+}
+
+
+.opas{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(70, 88, 255);
+    left: 178px;
+    opacity: 0.8;
+    top: 209px;
+}
+
+
+.vis{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(70, 88, 255);
+    left: 647px;
+    opacity: 0.8;
+    top: 383px;
+}
+
+
+
+.o1o{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    top: -30px;
+    left: 155px;
+}
+
+
+.o2o{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    top: 20px;
+    left: 15px;
+}
+
+
+.o3o{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    top: 250px;
+    left: 237px;
+}
+
+
+.v1v{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    left: 300px;
+}
+
+
+
+.v2v{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    top: -30px;
+    left: 270px;
+}
+
+
+
+.v3v{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    left: 270px;
+}
